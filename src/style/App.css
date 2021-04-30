@@ -1,0 +1,22 @@
+.App {
+	position: relative;
+	margin: auto;
+	display: block;
+	justify-content: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	.App {
+		position: relative;
+		margin: auto;
+		display: block;
+		justify-content: center;
+	}
+}
+/* @media screen (max-width: 600px) {
+  .App {
+    position: relative;
+    display: block;
+    justify-content: center;
+  }
+} */
